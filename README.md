@@ -6,7 +6,7 @@
 ## :octocat: About Me:
 Ambitious and hardworking, I can pick up new skills and methods of working with ease while efficiently applying previously learned skills.
 
-:white_small_square: [Check My Portfolio](https://elizaveta-gorelova.webflow.io/) :white_small_square:
+:white_small_square: [Check My Portfolio]() :white_small_square:
 
 - 💻 Systems Analysis and Development (ADS) student at Fatec
 - 🛠️ Technical graduate in Computer Maintenance and Support from Etec
@@ -15,7 +15,7 @@ Ambitious and hardworking, I can pick up new skills and methods of working with 
   
 ## 🔘 Currently studying:
 
-| Tecnologia | Nível |
+| Technologies | Level |
 |-----------|-------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45px"> | 💜💜💜🤍🤍🤍🤍🤍🤍 |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45px"> | 💜💜💜💜🤍🤍🤍🤍🤍 |
