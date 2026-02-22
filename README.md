@@ -17,15 +17,15 @@ Ambitious and hardworking, I can pick up new skills and methods of working with 
 
 | Technologies | Level |
 |-----------|-------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45px"> | 💜💜💜🤍🤍🤍🤍🤍🤍 |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45px"> | 💜💜💜💜🤍🤍🤍🤍🤍 |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45px"> | 💜💜💜🤍🤍🤍🤍🤍🤍 |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45px"> | 💜💜💜🤍🤍🤍🤍🤍🤍 |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="45px"> | 💜💜💜🤍🤍🤍🤍🤍🤍 |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45px"> | 💜💜💜🤍🤍🤍🤍🤍🤍🤍 |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45px"> | 💜💜💜💜🤍🤍🤍🤍🤍🤍|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45px"> | 💜💜💜🤍🤍🤍🤍🤍🤍🤍 |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45px"> | 💜💜💜🤍🤍🤍🤍🤍🤍🤍 |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="45px"> | 💜💜💜🤍🤍🤍🤍🤍🤍🤍 |
 | <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="45px"> | 💜💜💜💜💜💜🤍🤍🤍🤍 |
 | <img src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000" width="45px"> | 💜💜🤍🤍🤍🤍🤍🤍🤍🤍 |
 | <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="45px"> | 💜💜💜💜💜🤍🤍🤍🤍🤍 |
-| <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="45px"> | 💜💜💜🤍🤍🤍🤍🤍🤍 |
+| <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="45px"> | 💜💜💜🤍🤍🤍🤍🤍🤍🤍 |
 <br>
 
 ## 🔘 Github Stats:
