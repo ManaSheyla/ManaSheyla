@@ -13,22 +13,24 @@ Ambitious and hardworking, I can pick up new skills and methods of working with 
 - 🚀 Focused on software development and problem-solving
 - 📌 Always learning and building projects
   
-## 🔘 Currently studying::
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="36" height="36"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="36" height="36"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="36" height="36"/>&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"   title="C" alt="C" width="36" height="36"/>&nbsp;
-  <img src= "https://img.icons8.com/?size=100&id=45490&format=png&color=000000" title="C#" alt="C#" width="36" height="36"/>&nbsp;
-  <img src= "https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" title="Power Bi" alt="Power Bi" width="36" height="36"/>&nbsp;
-  
-</div>
+## 🔘 Currently studying:
+
+| Tecnologia | Nível |
+|-----------|-------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45px"> | 💜💜💜🤍🤍🤍🤍🤍🤍 |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45px"> | 💜💜💜💜🤍🤍🤍🤍🤍 |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45px"> | 💜💜💜🤍🤍🤍🤍🤍🤍 |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45px"> | 💜💜💜🤍🤍🤍🤍🤍🤍 |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="45px"> | 💜💜💜🤍🤍🤍🤍🤍🤍 |
+| <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="45px"> | 💜💜💜💜💜💜🤍🤍🤍🤍 |
+| <img src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000" width="45px"> | 💜💜🤍🤍🤍🤍🤍🤍🤍🤍 |
+| <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="45px"> | 💜💜💜💜💜🤍🤍🤍🤍🤍 |
+| <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="45px"> | 💜💜💜🤍🤍🤍🤍🤍🤍 |
+<br>
 
 ## 🔘 Github Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ManaSheyla&theme=dark&background=4C4C4F)](https://git.io/streak-stats)
 
 
 ## Social Media:
-:memo: Follow me on [Instagram](https://www.instagram.com/girlstechke/);
+![Instagram](https://img.icons8.com/?size=30&id=32323&format=png&color=000000) Follow me on [Instagram](https://www.instagram.com/girlstechke/)
